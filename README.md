@@ -4,7 +4,7 @@
 ----------------------------------------------------------------------------------------------------------
 <b>[Figure 4,6,7 - dataset 1](../master/Figs_4_6_7_Current_amplitudes_hEAAT2_variants.xlsx)</b>
 
-Excel file: IVs (NO<sub>3</sub> from transporter-activated anion current for variants:
+Excel file: IVs (NO<sub>3</sub>-based) from transporter-activated anion current for variants:
 L37R/G82R/L85R/I276S/G360A/432D/A439V/H542R/I546T.
 
 <b>[Figure 5 - dataset 2](../master/xxx.xlsx)</b>
