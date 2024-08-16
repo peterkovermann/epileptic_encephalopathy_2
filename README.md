@@ -2,7 +2,7 @@
 ### Kovermann P., Bayat A., Fenger C.D., Leeuwen L., Borovikov A., Sharkov A., Levrat V.,
 ### Lesca G., Perrin L., Levy J., Fahlke, C., Moller R.S., Jensen A.A. 
 ----------------------------------------------------------------------------------------------------------
-<b>[Figure 4,6,7 - dataset 1](../master/Figs 4_6_7_Current amplitudes hEAAT2 variants.xlsx)</b>
+<b>[Figure 4,6,7 - dataset 1](../master/Figs_4_6_7_Current_amplitudes_hEAAT2_variants.xlsx)</b>
 
 Excel file: IVs (NO<sub>3</sub> from transporter-activated anion current for variants:
 L37R/G82R/L85R/I276S/G360A/432D/A439V/H542R/I546T.
