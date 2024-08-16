@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------------------------------
 ### Kovermann P., Bayat A., Fenger C.D., Leeuwen L., Borovikov A., Sharkov A., Levrat V.,
 ### Lesca G., Perrin L., Levy J., Fahlke, C., Møller R.S., Jensen A.A. 
-----------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
 <b>[Figures 4,6,7 - dataset 1](../main/Figs_4_6_7_Current_amplitudes_hEAAT2_variants.xlsx)</b>
 
 Excel file: IVs (NO<sub>3</sub>-based) from transporter-activated anion current 
