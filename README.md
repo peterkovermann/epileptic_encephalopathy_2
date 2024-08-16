@@ -1,4 +1,5 @@
 # The severity of <i>SLC1A2</i>-associated neurodevelopmental disorders correlates with transporter dysfunction
+---------------------------------------------------------------------------------------------------------------
 ### Kovermann P., Bayat A., Fenger C.D., Leeuwen L., Borovikov A., Sharkov A., Levrat V.,
 ### Lesca G., Perrin L., Levy J., Fahlke, C., Møller R.S., Jensen A.A. 
 ----------------------------------------------------------------------------------------------------------
