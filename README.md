@@ -4,7 +4,7 @@
 ### Lesca G., Perrin L., Levy J., Fahlke, C., Møller R.S., Jensen A.A. 
 ---------------------------------------------------------------------------------------------------------------
 
-<b>[Figure2 - dataset 1](../main/Fig_2_Confocal_images_EAAT2_variants_HEK293T.zip)</b>
+<b>[Figure 2 - dataset 1](../main/Fig_2_Confocal_images_EAAT2_variants_HEK293T.zip)</b>
 
 Zip file: Collection of confocal images from HEK293T cells after transfection of <i>h</i>EAAT2 variants fused to mYFP or mCherry.
 
