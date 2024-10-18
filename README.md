@@ -19,3 +19,8 @@ for variants: L37R/G82R/L85R/I276S/G360A/A432D/A439V/H542R/I546T and WT <i>h</i>
 
 Excel file: Biionic reversal potentials and calculated glutamate permeabilities 
 for <i>h</i>EAAT2 variant L85R coexpressed with WT.
+
+<b>[Supplementary Figure 2 - dataset 4](../main/Supplementary_Fig_2.xlsx)</b>
+
+Excel file: Dataset containing current densities from whole cell patch clamp experiments with Cl<sup>-</sup>-based solutions
+for WT <i>h</i>EAAT2, L85P <i>h</i>EAAT2, and <i>h</i>EAAT2 variant L85R coexpressed with WT.
