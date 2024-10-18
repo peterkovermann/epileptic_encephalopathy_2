@@ -13,7 +13,10 @@ of surface expression was differently studied by ELISA-assays (Figure 2b, d)
 <b>[Figures 4,6,7 - dataset 2](../main/Figs_4_6_7_Current_amplitudes_hEAAT2_variants.xlsx)</b>
 
 Excel file: IVs (NO<sub>3</sub>-based) from transporter-activated anion current 
-for variants: L37R/G82R/L85R/I276S/G360A/A432D/A439V/H542R/I546T and WT <i>h</i>EAAT2
+for: 
+
+(1) variants: L37R/G82R/L85R/I276S/G360A/A432D/A439V/H542R/I546T and WT <i>h</i>EAAT2
+(2) coexpressions: WT::L85R, and WT::A432D <i>h</i>EAAT2
 
 <b>[Figure 5 - dataset 3](../main/Fig_5_WTcoL85R_Glut_permeability.xlsx)</b>
 
