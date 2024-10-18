@@ -27,4 +27,4 @@ for WT <i>h</i>EAAT2, L85P <i>h</i>EAAT2, and <i>h</i>EAAT2 variant L85R coexpre
 
 !!! data for WT and L85P !!! are calculated from the free available dataset github.com/peterkovermann/epileptic encephalopathy_1,
 accompanying the published paper: Kovermann <i>et al</i>., 2020, Mutations associated with epileptic encephalopathy modify EAAT2 anion channel function.
-<i>Epilepsia</i> <b>63 (2)</b>.
+<i>Epilepsia</i> <b>63 (2)</b>. The data from the coexpression WT::L85R are new.
