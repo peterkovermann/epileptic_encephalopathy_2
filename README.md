@@ -25,7 +25,7 @@ for <i>h</i>EAAT2 variant L85R coexpressed with WT.
 
 <b>[Supplementary Figure 1 - dataset 4](../main/Supplementary_Fig_1.xlsx)</b>
 
-Excel file: Dataset containing current densities from L-glutamate uptake for WT EAAT2-mCherry, WT EAAT2-mCherry::F249Sfs*17 EAAT2-mYFP,
+Excel file: Dataset containing current densities and mean fluorescences from L-glutamate uptake for WT EAAT2-mCherry, WT EAAT2-mCherry::F249Sfs*17 EAAT2-mYFP,
 WT EAAT2-mCherry::A432D EAAT2-mYFP
 
 !!! data for WT EAAT2-mYFP (dashed line in S1b) are taken from the free available dataset github.com/peterkovermann/epileptic encephalopathy_1,
