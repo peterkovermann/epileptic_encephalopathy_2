@@ -32,7 +32,7 @@ WT EAAT2-mCherry::A432D EAAT2-mYFP
 accompanying the published paper: Kovermann <i>et al</i>., 2020, Mutations associated with epileptic encephalopathy modify EAAT2 anion channel function.
 <i>Epilepsia</i> <b>63 (2)</b>.
 
-<b>[Supplementary Figure 3 - dataset 5](../main/Supplementary_Fig_3.xlsx)</b>
+<b>[Supplementary Figure 3 - dataset 5](../main/Supplementary Fig_3.xlsx)</b>
 
 Excel file: Dataset containing current densities from whole cell patch clamp experiments with Cl<sup>-</sup>-based solutions
 for WT <i>h</i>EAAT2, L85P <i>h</i>EAAT2, and <i>h</i>EAAT2 variant L85R coexpressed with WT.
