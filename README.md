@@ -8,7 +8,7 @@
 
 Zip file: Collection of confocal images from HEK293T cells after transfection of <i>h</i>EAAT2 variants fused to mYFP or mCherry.
 Note: These pictures proof membrane insertion of tested variants. Here in this figs, contrast/brightness is adjusted. Quantification
-of surface expression was differently studied by ELISA-assays (Figure 2b, d)
+of surface expression was differently studied by ELISA-assays (Figure 3).
 
 <b>[Figures 5,7,8 - dataset 2](../main/Figs_5_7_8_Current_amplitudes_hEAAT2_variants.xlsx)</b>
 
