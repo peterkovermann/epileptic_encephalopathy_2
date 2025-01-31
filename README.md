@@ -28,7 +28,7 @@ for <i>h</i>EAAT2 variant L85R coexpressed with WT.
 Excel file: Dataset containing current densities and mean fluorescences from L-glutamate uptake for WT EAAT2-mCherry, WT EAAT2-mCherry::F249Sfs*17 EAAT2-mYFP,
 WT EAAT2-mCherry::A432D EAAT2-mYFP
 
-<sup>!!! data for WT EAAT2-mYFP (dashed line in S1b) are taken from the free available dataset github.com/peterkovermann/epileptic encephalopathy_1,
+<sup>!!! data for WT EAAT2-mYFP (dashed line in S1b) were taken from the free available dataset github.com/peterkovermann/epileptic encephalopathy_1,
 accompanying the published paper: Kovermann <i>et al</i>., 2020, Mutations associated with epileptic encephalopathy modify EAAT2 anion channel function.
 <i>Epilepsia</i> <b>63 (2)</b>.</supp>
 
@@ -37,6 +37,6 @@ accompanying the published paper: Kovermann <i>et al</i>., 2020, Mutations assoc
 Excel file: Dataset containing current densities from whole cell patch clamp experiments with Cl<sup>-</sup>-based solutions
 for WT <i>h</i>EAAT2, L85P <i>h</i>EAAT2, and <i>h</i>EAAT2 variant L85R coexpressed with WT.
 
-<sup>!!! data for WT and L85P !!! were combined from new data and the free available dataset github.com/peterkovermann/epileptic encephalopathy_1,
+<sup>!!! data for WT and L85P were combined from new data and the free available dataset github.com/peterkovermann/epileptic encephalopathy_1,
 accompanying the published paper: Kovermann <i>et al</i>., 2020, Mutations associated with epileptic encephalopathy modify EAAT2 anion channel function.
 <i>Epilepsia</i> <b>63 (2)</b>. The data from the coexpression WT::L85R are new.</sup>
